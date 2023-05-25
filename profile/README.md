@@ -2,14 +2,6 @@
 
 Welcome to the Qubitro GitHub repository! We are a community of IoT enthusiasts and developers dedicated to simplifying and empowering IoT solutions. Our mission is to enable businesses and individuals to build scalable, secure, and intelligent IoT applications.
 
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-
 ## About
 
 At Qubitro, we believe in the transformative power of the Internet of Things (IoT). Our goal is to democratize IoT development and make it accessible to everyone. We provide a comprehensive platform that offers tools, services, and infrastructure to streamline IoT application development.
