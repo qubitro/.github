@@ -28,3 +28,5 @@ Unlike traditional IoT platforms that require heavy development and infrastructu
 📖 **[Documentation](https://docs.qubitro.com)** – Get detailed guides, tutorials, and API references.  
 🔗 **[Qubitro Platform](https://qubitro.com)** – Sign up and start building today.  
 ---
+
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1hg2j.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
